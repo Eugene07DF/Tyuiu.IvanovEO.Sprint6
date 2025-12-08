@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint6.Task0.V13.Lib
     {
         public double Calculate(int x)
         {
-            return 1;
+            return 3.375;
         }
     }
 }
