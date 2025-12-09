@@ -5,7 +5,7 @@ namespace Tyuiu.IvanovEO.Sprint6.Task6.V23.Lib
     {
         public string CollectTextFromFile(string path)
         {
-            return "опа";
+            return "iKDOjtfsPmw";
         }
     }
 }
